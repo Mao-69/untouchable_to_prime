@@ -10,6 +10,14 @@ such that,
 
 &Phi;(x) = n&prod;(1-1/p)
 
+is the positive integers up to a given integer (n)
+that are relatively prime to (n)
+now,
+
+let (n) be a natural number,
+such that the digit sum for
+base b > 1,F&subb
+
 
 
 
