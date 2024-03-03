@@ -22,7 +22,7 @@ F₁₀(&Phi;(n)) be the single digit sum of the totient number,
 
 then let,
 
-&mu; = { 2, F₁₀(&Phi;(n)) &ge5;5 
+&mu; = { 2, F₁₀(&Phi;(n)) &ge;5 
 
 ```shell
 python3 ./untouchable_to_prime.py
