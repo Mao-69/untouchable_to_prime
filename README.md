@@ -10,7 +10,7 @@ such that,
 
 the totient number
 
-&Phi;(x) = n&prod;(1-1/p)
+&Phi;(n) = n&prod;(1-1/p)
 
 is the positive integers up to a given integer (n)
 that are relatively prime to (n)
