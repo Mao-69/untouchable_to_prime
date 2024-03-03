@@ -24,6 +24,12 @@ then let,
 
 &mu; = { 2, if F₁₀&Phi;(n) &ge; 5 or 4, if F₁₀&Phi;(n) &le; 5
 
+such that,
+
+&Phi;(n) / &mu; +1
+
+is a prime number
+
 ```shell
 python3 ./untouchable_to_prime.py
 ```
