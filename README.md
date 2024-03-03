@@ -14,12 +14,9 @@ is the positive integers up to a given integer (n)
 that are relatively prime to (n)
 now,
 
-let (n) be a natural number,
-such that the digit sum for
-base b &gt; 1,F&supb;
+let,
 
-
-
+F₁₀(&Phi;ₙ)
 
 ```shell
 python3 ./untouchable_to_prime.py
