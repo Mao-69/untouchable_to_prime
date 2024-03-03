@@ -14,9 +14,8 @@ the totient number
 
 is the positive integers up to a given integer (n)
 that are relatively prime to (n)
-now,
 
-let,
+now let,
 
 F₁₀&Phi;(n) be the single digit sum of the totient number,
 
