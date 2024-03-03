@@ -16,7 +16,7 @@ now,
 
 let (n) be a natural number,
 such that the digit sum for
-base b &gt; 1,F&sup;
+base b &gt; 1,F&supb;
 
 
 
