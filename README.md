@@ -26,7 +26,7 @@ then let,
 
 such that,
 
-&Phi;(n) / &mu; +1
+(&Phi;(n) / &mu;) +1
 
 is a prime number
 
