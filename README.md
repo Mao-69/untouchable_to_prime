@@ -4,7 +4,10 @@ Calculate prime numbers from the set of untouchable numbers
 
 
 
-&Phi;(x) = n &prod;
+&Phi;(x) = n &prod<frac>p|n/prime</frac>;
+
+
+
 ```shell
 python3 ./untouchable_to_prime.py
 ```
