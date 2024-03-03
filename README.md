@@ -4,7 +4,7 @@ Calculate prime numbers from the set of untouchable numbers
 
 
 
-&Phi;(x) = n &prod<frac>p|n/prime</frac>;
+&Phi;(x) = n &prod&fracp|n;&fracprime;
 
 
 
