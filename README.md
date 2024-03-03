@@ -4,7 +4,7 @@ Calculate prime numbers from the set of untouchable numbers
 
 
 
-&Phi;(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x\Phi \left ( n \right )=n\prod_{\frac{p|n}{prime}}\left ( 1-\frac{1}{p} \right )
+&Phi;(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 ```shell
 python3 ./untouchable_to_prime.py
 ```
