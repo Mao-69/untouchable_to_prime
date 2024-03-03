@@ -4,7 +4,7 @@ Calculate prime numbers from the set of untouchable numbers
 
 
 
-```math
+```
 &Phi;(x) = n&prod;(1-1/p)
 ```
 
