@@ -3,10 +3,10 @@ Calculate prime numbers from the set of untouchable numbers
 ``` 2, 5, 52, 88, 96, 120, 124, 146, 162, 188, 206, 210, 216, 238, 246, 248, 262, 268, 276, 288, 290, 292, 304, 306, 322, 324, 326, 336, 342, 372, 406, 408, 426, 430, 448, 472, 474, 498 ```
 
 
-
-$$
+let (n) be an integer> 2 in the untouchable numbers set (2,5,52,88,96, . . . , 498)
+such that,
 &Phi;(x) = n&prod;(1-1/p)
-$$
+
 
 
 
