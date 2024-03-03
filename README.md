@@ -18,11 +18,11 @@ now,
 
 let,
 
-F₁₀(&Phi;(n)) be the single digit sum of the totient number,
+F₁₀&Phi;(n) be the single digit sum of the totient number,
 
 then let,
 
-&mu; = { 2, if F₁₀(&Phi;(n)) &ge; 5 or 4, if F₁₀(&Phi;(n)) &le; 5
+&mu; = { 2, if F₁₀&Phi;(n) &ge; 5 or 4, if F₁₀&Phi;(n) &le; 5
 
 ```shell
 python3 ./untouchable_to_prime.py
