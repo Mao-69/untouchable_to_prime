@@ -8,6 +8,8 @@ in the untouchable numbers set (2,5,52,88,96, . . . , 498)
 
 such that,
 
+the totient number
+
 &Phi;(x) = n&prod;(1-1/p)
 
 is the positive integers up to a given integer (n)
@@ -16,7 +18,11 @@ now,
 
 let,
 
-F₁₀(&Phi;ₙ)
+F₁₀(&Phi;(n)) be the single digit sum of the totient number,
+
+then let,
+
+&mu; = { 2, F₁₀(&Phi;(n)) &get5;
 
 ```shell
 python3 ./untouchable_to_prime.py
