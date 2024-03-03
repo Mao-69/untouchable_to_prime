@@ -4,9 +4,9 @@ Calculate prime numbers from the set of untouchable numbers
 
 
 
-```
+$$
 &Phi;(x) = n&prod;(1-1/p)
-```
+$$
 
 
 
