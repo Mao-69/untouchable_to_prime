@@ -4,9 +4,7 @@ Calculate prime numbers from the set of untouchable numbers
 
 
 let (n) be an integer > 2
-in the untouchable numbers set
-
-(2,5,52,88,96, . . . , 498)
+in the untouchable numbers set (2,5,52,88,96, . . . , 498)
 
 such that,
 
