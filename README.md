@@ -384,7 +384,7 @@ Enter a list of numbers separated by space:
 +------------+------------+------------+------------+---------------+
 ```
 
-### Let's filter the list and show which numbers share the same Totients, Totient Sum and the same prime number:
+### Let's filter the list and show which numbers share the same Totients, Totient Sum and the same Prime Number:
 
 - Numbers that share the same Totient,
 Totient Sums and Prime Number 17:
