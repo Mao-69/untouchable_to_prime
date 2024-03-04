@@ -54,7 +54,6 @@ Numbers that share the same Totients, Digit Sums and Prime Number 17:
 ```
 | Number | Totient | Digit Sum | Result | Is Prime 
 |--------|---------|-----------|--------|----------     
-|
 |  96    |  32     |  5        |  17    |    1     |
 |  120   |  32     |  5        |  17    |    1     |
 ```
