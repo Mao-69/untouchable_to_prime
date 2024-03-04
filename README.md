@@ -405,6 +405,17 @@ Totient Sums and Prime Number 31:
 |    366     |    120     |     3      |     31     |       1       |
 ```
 
+- Numbers that share the same Totient,
+Totient Sums and Prime Number 37:
+
+```
+| Number | Totient | Digit Sum | Result | Is Prime |
+|--------|---------|-----------|--------|----------|
+| 146    | 72      | 9         | 37     | 1        |
+| 216    | 72      | 9         | 37     | 1        |
+```
+
+
 - Numbers that share the same Totients,
 Totient Sums and Prime Number 73:
 ```
