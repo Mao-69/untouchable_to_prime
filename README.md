@@ -61,7 +61,16 @@ Numbers that share the same Prime Number 17:
 |  366   |  120    |  3        |  17    |    1     |
 ```
 
-Numbers that share the same Prime Number 73 and also share the same Totients and Digit Sums:
+Numbers that share the same Prime Number 31:
+
+```
+|   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
+|------------|------------|------------|------------|---------------|
+|    248     |    120     |     3      |     31     |       1       |
+|    366     |    120     |     3      |     31     |       1       |
+```
+
+Numbers that share the same Prime Number 73:
 ```
 |   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
 |------------|------------|------------|------------|---------------|
