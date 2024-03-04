@@ -50,18 +50,16 @@ Enter a list of numbers separated by space: 5 52 88 96 120
 +------------+------------+------------+------------+---------------+
 ```
 
-Numbers that share the same Prime Number 17:
+Numbers that share the same Totients, Digit Sums and Prime Number 17:
 ```
 | Number | Totient | Digit Sum | Result | Is Prime |
-|--------|---------|-----------|--------|----------|
-|  52    |  24     |  6        |  17    |    1     |
+|--------|---------|-----------|--------|----------     
+|
 |  96    |  32     |  5        |  17    |    1     |
 |  120   |  32     |  5        |  17    |    1     |
-|  210   |  48     |  3        |  17    |    1     |
-|  366   |  120    |  3        |  17    |    1     |
 ```
 
-Numbers that share the same Prime Number 31:
+Numbers that share the same Totient, Digit Sums and Prime Number 31:
 
 ```
 |   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
