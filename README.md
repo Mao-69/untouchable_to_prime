@@ -33,7 +33,7 @@ is a prime number
 python3 ./untouchable_to_prime.py
 ```
 
-The first 1000 Untouchable numbers:
+### The first 1000 Untouchable numbers:
 ```
 Enter a list of numbers separated by space: 
 2 5 52 88 96 120 124 146 162 188 206 210 216 238
@@ -384,7 +384,9 @@ Enter a list of numbers separated by space:
 +------------+------------+------------+------------+---------------+
 ```
 
-Numbers that share the same Totient,
+Let's filter the list and show which numbers share the same Totients, Totient Sum and the same prime number:
+
+- Numbers that share the same Totient,
 Totient Sums and Prime Number 17:
 ```
 | Number | Totient | Digit Sum | Result | Is Prime | 
@@ -393,7 +395,7 @@ Totient Sums and Prime Number 17:
 |  120   |  32     |  5        |  17    |    1     |
 ```
 
-Numbers that share the same Totient,
+- Numbers that share the same Totient,
 Totient Sums and Prime Number 31:
 
 ```
@@ -403,7 +405,7 @@ Totient Sums and Prime Number 31:
 |    366     |    120     |     3      |     31     |       1       |
 ```
 
-Numbers that share the same Totients,
+- Numbers that share the same Totients,
 Totient Sums and Prime Number 73:
 ```
 |   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
