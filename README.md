@@ -52,7 +52,7 @@ Enter a list of numbers separated by space: 5 52 88 96 120
 
 Numbers that share the same Totients, Digit Sums and Prime Number 17:
 ```
-| Number | Totient | Digit Sum | Result | Is Prime |
+| Number | Totient | Digit Sum | Result | Is Prime 
 |--------|---------|-----------|--------|----------     
 |
 |  96    |  32     |  5        |  17    |    1     |
@@ -68,7 +68,7 @@ Numbers that share the same Totient, Digit Sums and Prime Number 31:
 |    366     |    120     |     3      |     31     |       1       |
 ```
 
-Numbers that share the same Prime Number 73:
+Numbers that share the same Totients, Digit Sums and Prime Number 73:
 ```
 |   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
 |------------|------------|------------|------------|---------------|
