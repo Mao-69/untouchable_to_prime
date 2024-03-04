@@ -451,6 +451,17 @@ Totient Sums and Prime Number 67:
 ```
 
 - Numbers that share the same Totients,
+Totient Sums and Prime Number 71:
+```
+| Number | Totient | Digit Sum | Result | Is Prime |
+|--------|---------|-----------|--------|----------|
+| 562    | 280     | 1         | 71     | 1        |
+| 568    | 280     | 1         | 71     | 1        |
+| 852    | 280     | 1         | 71     | 1        |
+```
+
+
+- Numbers that share the same Totients,
 Totient Sums and Prime Number 73:
 ```
 |   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
