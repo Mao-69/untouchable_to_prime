@@ -437,6 +437,18 @@ Totient Sums and Prime Number 41:
 |    974     |    384     |     6      |     41     |       1       |
 |    986     |    448     |     7      |     41     |       1       |
 ```
+- Numbers that share the same Totients,
+Totient Sums and Prime Number 67:
+```
+| Number | Totient | Digit Sum | Result | Is Prime |
+|--------|---------|-----------|--------|----------|
+| 268    | 132     | 6         | 67     | 1        |
+| 322    | 132     | 6         | 67     | 1        |
+| 402    | 132     | 6         | 67     | 1        |
+| 536    | 264     | 3         | 67     | 1        |
+| 804    | 264     | 3         | 67     | 1        |
+| 966    | 264     | 3         | 67     | 1        |
+```
 
 - Numbers that share the same Totients,
 Totient Sums and Prime Number 73:
