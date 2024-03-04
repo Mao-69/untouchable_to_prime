@@ -50,9 +50,8 @@ Enter a list of numbers separated by space: 5 52 88 96 120
 +------------+------------+------------+------------+---------------+
 ```
 
-```
 Numbers that share the same Prime Number 17:
-
+```
 | Number | Totient | Digit Sum | Result | Is Prime |
 |--------|---------|-----------|--------|----------|
 |  52    |  24     |  6        |  17    |    1     |
