@@ -154,6 +154,16 @@ Totient Sums and Prime Number 139:
 ```
 
 - Numbers that share the same Totients,
+Totient Sums and Prime Number 157:
+```
+| Number | Totient | Digit Sum | Result | Is Prime |
+|--------|---------|-----------|--------|----------|
+| 942    | 312     | 6         | 157    | 1        |
+| 948    | 312     | 6         | 157    | 1        |
+| 954    | 312     | 6         | 157    | 1        |
+```
+
+- Numbers that share the same Totients,
 Totient Sums and Prime Number 167:
 ```
 |   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
