@@ -109,3 +109,17 @@ Totient Sums and Prime Number 89:
 | 534    | 176     | 5         | 89     | 1        |
 | 690    | 176     | 5         | 89     | 1        |
 ```
+
+- Numbers that share the same Totients,
+Totient Sums and Prime Number 109:
+```
+| Number | Totient | Digit Sum | Result | Is Prime |
+|--------|---------|-----------|--------|----------|
+| 648    | 216     | 9         | 109    | 1        |
+| 654    | 216     | 9         | 109    | 1        |
+| 666    | 216     | 9         | 109    | 1        |
+| 702    | 216     | 9         | 109    | 1        |
+| 756    | 216     | 9         | 109    | 1        |
+| 798    | 216     | 9         | 109    | 1        |
+| 810    | 216     | 9         | 109    | 1        |
+```
