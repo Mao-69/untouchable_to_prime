@@ -133,3 +133,12 @@ Totient Sums and Prime Number 139:
 | 834    | 276     | 6         | 139    | 1        |
 | 846    | 276     | 6         | 139    | 1        |
 ```
+
+- Numbers that share the same Totients,
+Totient Sums and Prime Number 167:
+```
+|   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
+|------------|------------|------------|------------|---------------|
+|    668     |    332     |     8      |    167     |       1       |
+|    1002    |    332     |     8      |    167     |       1       |
+```
