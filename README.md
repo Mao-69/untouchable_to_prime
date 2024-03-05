@@ -161,3 +161,12 @@ Totient Sums and Prime Number 167:
 |    668     |    332     |     8      |    167     |       1       |
 |    1002    |    332     |     8      |    167     |       1       |
 ```
+
+- Numbers that share the same Totients,
+Totient Sums and Prime Number 181:
+```
+|   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
+|------------|------------|------------|------------|---------------|
+|    836     |    360     |     9      |    181     |       1       |
+|    868     |    360     |     9      |    181     |       1       |
+```
