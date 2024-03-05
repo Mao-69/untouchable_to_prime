@@ -101,6 +101,8 @@ Totient Sums and Prime Number 73:
 |    570     |    144     |     9      |     73     |       1       |
 ```
 
+- Numbers that share the same Totients,
+Totient Sums and Prime Number 89:
 ```
 | Number | Totient | Digit Sum | Result | Is Prime |
 |--------|---------|-----------|--------|----------|
