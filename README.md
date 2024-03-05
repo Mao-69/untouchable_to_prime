@@ -170,3 +170,13 @@ Totient Sums and Prime Number 181:
 |    836     |    360     |     9      |    181     |       1       |
 |    868     |    360     |     9      |    181     |       1       |
 ```
+
+- Numbers that share the same Totients,
+Totient Sums and Prime Number 193:
+```
+| Number | Totient | Digit Sum | Result | Is Prime |
+|--------|---------|-----------|--------|----------|
+| 896    | 384     | 6         | 193    | 1        |
+| 952    | 384     | 6         | 193    | 1        |
+| 970    | 384     | 6         | 193    | 1        |
+```
