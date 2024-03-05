@@ -134,6 +134,16 @@ Totient Sums and Prime Number 113:
 ```
 
 - Numbers that share the same Totients,
+Totient Sums and Prime Number 127:
+```
+|   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
+|------------|------------|------------|------------|---------------|
+|    762     |    252     |     9      |    127     |       1       |
+|    774     |    252     |     9      |    127     |       1       |
+|    882     |    252     |     9      |    127     |       1       |
+```
+
+- Numbers that share the same Totients,
 Totient Sums and Prime Number 139:
 ```
 | Number | Totient | Digit Sum | Result | Is Prime |
