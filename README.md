@@ -164,6 +164,15 @@ Totient Sums and Prime Number 157:
 ```
 
 - Numbers that share the same Totients,
+Totient Sums and Prime Number 163:
+```
+|   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
+|------------|------------|------------|------------|---------------|
+|    972     |    324     |     9      |    163     |       1       |
+|    978     |    324     |     9      |    163     |       1       |
+```
+
+- Numbers that share the same Totients,
 Totient Sums and Prime Number 167:
 ```
 |   Number   |  Totient   | Digit Sum  |   Result   |   Is Prime    |
