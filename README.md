@@ -124,6 +124,8 @@ Totient Sums and Prime Number 109:
 | 810    | 216     | 9         | 109    | 1        |
 ```
 
+- Numbers that share the same Totients,
+Totient Sums and Prime Number 139:
 ```
 | Number | Totient | Digit Sum | Result | Is Prime |
 |--------|---------|-----------|--------|----------|
