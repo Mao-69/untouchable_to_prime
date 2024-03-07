@@ -21,7 +21,7 @@ F₁₀&Phi;(n) be the single digit sum of the totient number,
 
 then let,
 
-&mu; = { 2, if F₁₀&Phi;(n) &ge; 5 or 4, if F₁₀&Phi;(n) < 5
+&mu; = { 2, if F₁₀&Phi;(n) ≥ 5 or 4, if F₁₀&Phi;(n) < 5
 
 such that,
 
