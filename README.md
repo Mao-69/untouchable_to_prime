@@ -29,6 +29,17 @@ such that,
 
 is a prime number
 
+then, 
+
+(n₁, n₂, nₖ) : Φ(n₁) = Φ(n₂) =...= Φ(nₖ) ∧ F₁₀Φ(n₁) = F₁₀Φ(n₂) =...= F₁₀Φ(nₖ) ∧ J(n₁) = J(n₂) =...= J(nₖ)
+
+Are sets of untouchable numbers (n)
+where each (n) shares,
+
+the same Totient Φ(n)
+Totient-Digit-Sum F₁₀Φ(n)
+and the same Prime J(n) = ( Φ(n) / μ ) +1
+
 ```shell
 python3 ./untouchable_to_prime.py
 ```
