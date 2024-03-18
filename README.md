@@ -203,6 +203,10 @@ Totient Sums and Prime Number 193:
 ### Untouchable Twin Pairs
 - The Joshie Pairs 🙃
 
+```code
+(n₁, n₂, nₖ) : Φ(n₁) = Φ(n₂) =...= Φ(nₖ) ∧ F₁₀Φ(n₁) = F₁₀Φ(n₂) =...= F₁₀Φ(nₖ) ∧ J(n₁) = J(n₂) =...= J(nₖ)
+```
+
 ```
 {96, 120}
 {248, 366}
